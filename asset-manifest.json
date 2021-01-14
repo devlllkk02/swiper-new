@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/swiper-new/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/swiper-new/static/js/main.1d399e20.chunk.js",
+    "main.js.map": "/swiper-new/static/js/main.1d399e20.chunk.js.map",
+    "runtime-main.js": "/swiper-new/static/js/runtime-main.a9ecf9ab.js",
+    "runtime-main.js.map": "/swiper-new/static/js/runtime-main.a9ecf9ab.js.map",
+    "static/js/2.607dde59.chunk.js": "/swiper-new/static/js/2.607dde59.chunk.js",
+    "static/js/2.607dde59.chunk.js.map": "/swiper-new/static/js/2.607dde59.chunk.js.map",
+    "index.html": "/swiper-new/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/swiper-new/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.607dde59.chunk.js.LICENSE.txt": "/swiper-new/static/js/2.607dde59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9ecf9ab.js",
+    "static/js/2.607dde59.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1d399e20.chunk.js"
+  ]
+}
